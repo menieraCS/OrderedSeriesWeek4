@@ -22,7 +22,7 @@
 
 ### Directory and File information:
 ```
- /docs                 javadocs export
- /orderedSeries        compiled files
- Ordered Series UML    UML diagram
+ /docs                       javadocs export
+ /orderedSeries              compiled files
+ Ordered Series UMLv1.pdf    UML diagram
 ```
